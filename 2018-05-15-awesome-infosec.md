@@ -1,4 +1,10 @@
 ---
+layout: post
+published: true
+title: 'Awesome InfoSec Resources'
+tags: infosec
+date: 2018-05-13
+permalink: /infosec/awesome/
 ---
 This is a list of Information Security resources I've found useful at some time during my study of security and I hope that others will too. 
 
@@ -18,7 +24,3 @@ This list is will be updated whenever I found something awesome to add.
 - [Jeremy Chisamore's Zero to OSCP in 292 Days](https://blog.mallardlabs.com/zero-to-oscp-in-292-days-or-how-i-accidentally-the-whole-thing-part-2/){:target="_blank"}
 
 ### Enumeration
-
-{% comment %}
-<!-- http://blog.davydovanton.com/2015/11/14/ignore-file-lines-in-git/ -->
-{% endcomment %}
