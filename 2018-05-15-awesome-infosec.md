@@ -1,6 +1,5 @@
 ---
 ---
-
 This is a list of Information Security resources I've found useful at some time during my study of security and I hope that others will too. 
 
 This list is will be updated whenever I found something awesome to add.
@@ -20,3 +19,6 @@ This list is will be updated whenever I found something awesome to add.
 
 ### Enumeration
 
+{% comment %}
+<!-- http://blog.davydovanton.com/2015/11/14/ignore-file-lines-in-git/ -->
+{% endcomment %}
