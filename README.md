@@ -14,6 +14,7 @@ This list is will be updated whenever I've found something awesome to add.
 - [Exploit Development](#exploit-development)
 - [Cryptography](#cryptography)
 - [Privilege Escalation](#privilege-escalation)
+- [Scripting](#scripting)
 - [Courses](#courses)
 - [Labs](#labs)
 - [CTF](#ctf)
@@ -28,6 +29,7 @@ This list is will be updated whenever I've found something awesome to add.
 - [Sublist3r](https://github.com/aboul3la/Sublist3r)
 - [dirsearch](https://github.com/maurosoria/dirsearch)
 - [cc.py](https://github.com/si9int/cc.py)
+- [@ITSecurityguard Visual Recon Guide](https://blog.it-securityguard.com/visual-recon-a-beginners-guide/)
 
 ### Web
 - [Web Application Hacker’s Handbook 2nd Edition](http://mdsec.net/wahh/toc2e.html)
@@ -57,10 +59,15 @@ This list is will be updated whenever I've found something awesome to add.
 
 ### Privilege Escalation
 - [g0tmi1k's Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+- [unix-privesc-check](https://github.com/pentestmonkey/unix-privesc-check)
+
+### Scripting
+- [Shell Scripting Tutorial](https://www.shellscript.sh)
 
 ### Courses
 - [OSCP](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/)
 - [Hacker101](https://www.hacker101.com)
+- [Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university)
 
 ### Labs
 - [PentesterLab](https://pentesterlab.com/referral/-MCa2tgjacaaaQ)
@@ -79,6 +86,9 @@ This list is will be updated whenever I've found something awesome to add.
 - [Bug Bounty Notes](https://www.bugbountynotes.com/)
 - [Pentester Land - List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html)
 - [FireBounty](https://firebounty.com/)
+- [Improving your reports - Google Bughunter University](https://sites.google.com/site/bughunteruniversity/improve)
+- [Facebook Bounty Hunter's Guide](https://www.facebook.com/notes/facebook-bug-bounty/a-bounty-hunters-guide-to-facebook/946955115318715)
+
 
 ### Hacker Blogs
 - [zseano](https://zseano.com/index.html)
