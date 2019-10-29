@@ -94,6 +94,8 @@ This list is will be updated whenever I've found something awesome to add.
 ### CTF
 - [Hacker101 CTF](https://ctf.hacker101.com/)
 - [PicoCTF](https://picoctf.com/)
+- [Google CTF](https://capturetheflag.withgoogle.com)
+- [CTF Time](https://ctftime.org/)
 
 ### Wargames
 - [OverTheWire](http://overthewire.org/wargames/)
