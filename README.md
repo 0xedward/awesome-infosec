@@ -90,6 +90,7 @@ This list is will be updated whenever I've found something awesome to add.
 - [Hack The Box](https://www.hackthebox.eu)
 - [AttackDefense Labs](https://attackdefense.com/)
 - [VulnHub](https://www.vulnhub.com/)
+- [CyberSec WTF](https://cybersecurity.wtf)
 
 ### CTF
 - [Hacker101 CTF](https://ctf.hacker101.com/)
