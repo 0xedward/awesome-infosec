@@ -84,6 +84,7 @@ This list is will be updated whenever I've found something awesome to add.
 - [Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university)
 - [Cybrary](https://www.cybrary.it/)
 - [Pluralsight - Information and Cyber Security](https://www.pluralsight.com/browse/information-cyber-security)
+- [Hopper's Roppers - Learning How to Learn How to Hack](https://hoppersroppers.github.io/course.html)
 
 ### Labs
 - [PentesterLab](https://pentesterlab.com/referral/-MCa2tgjacaaaQ)
