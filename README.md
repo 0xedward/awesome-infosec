@@ -84,6 +84,7 @@ This list is will be updated whenever I've found something awesome to add.
 - [Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university)
 - [Cybrary](https://www.cybrary.it/)
 - [Pluralsight - Information and Cyber Security](https://www.pluralsight.com/browse/information-cyber-security)
+- [Hopper's Roppers Free Security Training](https://www.hoppersroppers.org/training.html)
 
 ### Labs
 - [PentesterLab](https://pentesterlab.com/referral/-MCa2tgjacaaaQ)
@@ -96,6 +97,7 @@ This list is will be updated whenever I've found something awesome to add.
 - [PicoCTF](https://picoctf.com/)
 - [Google CTF](https://capturetheflag.withgoogle.com)
 - [CTF Time](https://ctftime.org/)
+- [Hopper's Roppers Intro. to CTF Course](https://www.hoppersroppers.org/courseCTF.html)
 
 ### Wargames
 - [OverTheWire](http://overthewire.org/wargames/)
